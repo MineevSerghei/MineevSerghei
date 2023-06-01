@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Serghei - disciple of Jesus, dad of 2, full stack software developer 
 
+The tech I use:
+ <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+
+
+Really excited to develop projects that will serve people!
+
+Reach out to me at mineevserghei@gmail.com!
 <!--
 **MineevSerghei/MineevSerghei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
