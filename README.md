@@ -5,9 +5,9 @@
 ### My buddies:
 <p>
 <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></a> 
-<a href="https://flask.palletsprojects.com/en/2.3.x/"><img src="https://img.shields.io/badge/Flask-282C34?logo=flask&logoColor=white" alt="Flask logo" title="Flask" height="25" /></a> 
+<a href="https://flask.palletsprojects.com/en/2.3.x/" target='_blank'><img src="https://img.shields.io/badge/Flask-282C34?logo=flask&logoColor=white" alt="Flask logo" title="Flask" height="25" /></a> 
   
-<a href="https://www.sqlalchemy.org/">
+<a href="https://www.sqlalchemy.org/" target='_blank'>
 <img src="https://img.shields.io/badge/SQLAlchemy-282C34?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2aWV3Qm94PSIyNTguMjMyIDM4Ljk5OSAxOTQuMzI2IDE5NC40MjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6Yng9Imh0dHBzOi8vYm94eS1zdmcuY29tIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iY29sb3ItMCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIGJ4OnBpbm5lZD0idHJ1ZSI+CiAgICAgIDxzdG9wIHN0eWxlPSJzdG9wLWNvbG9yOiByZ2IoMTE5LCAxMzYsIDExOSk7Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cGF0aCBkPSJNIDM1NS4zOTUgMTM2LjIwOSBtIC05Ny4xNjMgMCBhIDk3LjE2MyA5Ny4xNjMgMCAxIDAgMTk0LjMyNiAwIGEgOTcuMTYzIDk3LjE2MyAwIDEgMCAtMTk0LjMyNiAwIFogTSAzNTUuMzk1IDEzNi4yMDkgbSAtNjcuMjExIDAgYSA2Ny4yMTEgNjcuMjExIDAgMCAxIDEzNC40MjIgMCBhIDY3LjIxMSA2Ny4yMTEgMCAwIDEgLTEzNC40MjIgMCBaIiBzdHlsZT0iZmlsbDogdXJsKCNjb2xvci0wKTsiIGJ4OnNoYXBlPSJyaW5nIDM1NS4zOTUgMTM2LjIwOSA2Ny4yMTEgNjcuMjExIDk3LjE2MyA5Ny4xNjMgMUBhYmZkODdkZCIvPgogIDxwYXRoIGQ9Ik0gMzU1LjI2NCAxMzcuNDQ0IG0gLTQ0LjU2OCAwIGEgNDQuNTY4IDQ0LjU2OCAwIDEgMCA4OS4xMzYgMCBhIDQ0LjU2OCA0NC41NjggMCAxIDAgLTg5LjEzNiAwIFogTSAzNTUuMjY0IDEzNy40NDQgbSAtMTcuNDM4IDAgYSAxNy40MzggMTcuNDM4IDAgMCAxIDM0Ljg3NiAwIGEgMTcuNDM4IDE3LjQzOCAwIDAgMSAtMzQuODc2IDAgWiIgc3R5bGU9ImZpbGw6IHVybCgjY29sb3ItMCk7IiBieDpzaGFwZT0icmluZyAzNTUuMjY0IDEzNy40NDQgMTcuNDM4IDE3LjQzOCA0NC41NjggNDQuNTY4IDFAYTdhZjA3NDEiLz4KPC9zdmc+" alt="SQLAlchemy logo" title="SQLAlchemy" height="25" />
 </a>
 </p>
