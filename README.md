@@ -1,6 +1,6 @@
 ## Hi there 👋  I'm Serghei 
 
-### ✝️ Disciple of Jesus ✝️ | 👶 Dad of 2 👶 | 💻 Full Stack Software Developer 💻 
+### ✝️ Disciple of Jesus ✝️ | 👶 Dad of 3 👶 | 💻 Full Stack Software Developer 💻 
 
 ### My buddies:
 <p>
